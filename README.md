@@ -1,6 +1,6 @@
 ```
   __   ___   _      ____  ___   _      ____  ⭐ Hi, I am Eian.
- ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 At the age of 14 years, trying to experience independent coding.
+ ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 At the age of 14 years, experiencing independent coding.
  _)_) \_\_/ |_|  | |_|__ \_\_/ |_| \| |_|__  ⌨️ Currently interested in compiling/building.
 ```
 <!---
