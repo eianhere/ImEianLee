@@ -1,7 +1,7 @@
 ```
   __   ___   _      ____  ___   _      ____  ⭐ Hi, I am Eian.
  ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 Approximately 14.6 years old as of 02/2022.
- _)_) \_\_/ |_|  | |_|__ \_\_/ |_| \| |_|__  ⌨️ Currently interested in compiling/building stuff.
+ _)_) \_\_/ |_|  | |_|__ \_\_/ |_| \| |_|__  ⌨️ Currently interested in fixing words...
 ```
 <!---
 ImEianLee/ImEianLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
