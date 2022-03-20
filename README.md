@@ -1,6 +1,6 @@
 ```
   __   ___   _      ____  ___   _      ____  ⭐ Hi, I am Eian.
- ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 Approximately 14.6 years old as of 02/2022.
+ ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 Approximately 14.7 years old as of 03/2022.
  _)_) \_\_/ |_|  | |_|__ \_\_/ |_| \| |_|__  ⌨️ Currently interested in fixing words...
 ```
 <!---
