@@ -1,7 +1,7 @@
 ```
-  __   ___   _      ____  ___   _      ____  ⭐ Hi, I am Eian.
- ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 Approximately 15.3 years old as of 08/2022.
- _)_) \_\_/ |_|  | |_|__ \_\_/ |_| \| |_|__  ⌨️ Currently interested in something...
+  __   ___   _      ____  ___   _      ____  ⭐ Hi, You may know of me as Eian.
+ ( (` / / \ | |\/| | |_  / / \ | |\ | | |_   👦 Approximately 15.4 years old as of 09/2022.
+ _)_) \_\_/ |_|  | |_|__ \_\_/ |_| \| |_|__  ❔ Could I be someone?
 ```
 <!---
 why are you here :p
